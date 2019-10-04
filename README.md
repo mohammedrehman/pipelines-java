@@ -1,3 +1,4 @@
+[![Build Status](https://mohammedrehman.visualstudio.com/VBSamples/_apis/build/status/mohammedrehman.pipelines-java?branchName=master)](https://mohammedrehman.visualstudio.com/VBSamples/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
